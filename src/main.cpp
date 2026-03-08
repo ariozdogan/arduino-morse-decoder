@@ -3,6 +3,11 @@
 const int buttonPin = 8;
 const int lightPin = 7;
 
+void userPattern(){
+    
+}
+
+
 void setup() {
     pinMode(buttonPin, INPUT);
     pinMode(lightPin, OUTPUT);
